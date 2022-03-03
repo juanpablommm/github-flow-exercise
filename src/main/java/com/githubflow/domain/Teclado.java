@@ -27,5 +27,4 @@ public class Teclado extends DispositivoEntrada {
 		builder.append(idTeclado);
 		return builder.toString();
 	}
-
 }

@@ -28,5 +28,4 @@ public class Raton extends DispositivoEntrada {
 		builder.append(idRaton);
 		return builder.toString();
 	}
-	
 }

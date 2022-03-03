@@ -48,5 +48,4 @@ public class Monitor {
 		builder.append(idMonitor);
 		return builder.toString();
 	}
-
 }
